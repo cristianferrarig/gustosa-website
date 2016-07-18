@@ -1,0 +1,16 @@
+title:       "• Gustosa"
+
+description: "Próximamente en Gustosa encontraras ricos alimentos naturales."
+keywords:    "frutos secos, cereales, semillas, snacks, alimentación sana, almendras, nueces"
+author:      "Cristian Ferrari"
+
+analytics:   "UA-XXXXX-X"
+tagmanager:  "GTM-XXXXXX"
+
+handheld_friendly: "True"
+mobile_optimized:  "320"
+
+# For iOS web apps.
+app_title:   "Gustosa"
+app_capable: "yes"
+bar_style:   "black"
